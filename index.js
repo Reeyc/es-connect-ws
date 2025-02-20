@@ -1,3 +1,1 @@
-import useWebSocket from './connect'
-
-export const useWebSocket
+export { default } from "./connect"
