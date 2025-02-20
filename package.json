@@ -1,6 +1,6 @@
 {
   "name": "es-connect-ws",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "轻松管理websocket连接",
   "main": "index.js",
   "scripts": {
